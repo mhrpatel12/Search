@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="network_not_available">Please check your internet connection.</string>
+    <string name="string_search">Search Movies</string>
+    <string name="string_title">Search Title</string>
+    <string name="string_snippet">Nov 27, 2018 ... The insane popularity of the Harry Potter novels ensured that their eventual adaptation to movie mega-franchise was inevitable. But for some ...</string>
+    <string name="string_search_hint">Search . . </string>
+</resources>

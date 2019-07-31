@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="font_size_large">24sp</dimen>
+    <dimen name="image_height">96dp</dimen>
+    <dimen name="icon_size_large">64dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_double">32dp</dimen>
+    <dimen name="margin_triple">48dp</dimen>
+</resources>
